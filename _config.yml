@@ -1,3 +1,30 @@
+# Jekyll configuration
 url: http://blog.youxu.info
 name: 4G Spaces
-description: Eric Xu, PhD (徐宥) Software engineer, certified personal trainer and calligraphier. AI, martial arts, musicals and Zen. Ex-Googler, tech lead manager at Fitbit. @mathena
+description: 我是徐宥 <br/><br/> Fitbit 工程经理和技术领导人, 曾在 Google 广告部门和无人驾驶汽车部门供职。2011 年获华盛顿大学人工智能博士学位。<br/><br/> 这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。<br/><br/> 一切文章皆为原创, 18岁以上的网友转载本博客文章请保留出处.  这里欢迎留言, 但没有智力活动迹象的留言将会被删除.
+
+twitter_username: mathena
+github_username: xuy
+
+# Set this to your UA-# value, or '' to disable the block completely
+# gaaccount: ''
+
+# The 'comments' setting enables comments. You'll need to select either
+# disqus or isso below to choose a comment system. Individual posts can
+# override 'comments' to disable on a post-by-post basis.
+comments: true
+
+# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
+isso: ''
+
+# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
+disqus: '4gspaces'
+
+# permalink: /:year/:month/:title
+paginate: 5
+
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE']

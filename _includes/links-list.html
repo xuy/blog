@@ -1,0 +1,20 @@
+<h1>社会网络</h1>
+<ul style="list-style: none;">
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
+
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+
+
+</ul>

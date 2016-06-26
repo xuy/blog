@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+我是徐宥, 软件工程师. 曾在 Google 广告部门和无人驾驶汽车部门供职。现任 Fitbit 工程经理和技术领导人。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+一切文章皆为原创, 18岁以上的网友转载本博客文章请保留出处.
+
+这里欢迎留言, 但没有智力活动迹象的留言将会被删除.
+
