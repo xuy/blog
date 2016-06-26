@@ -3,6 +3,7 @@ id: 596
 title: '开窍的学问&#8211;从佛经说起'
 date: 2008-07-29T21:14:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=596
 permalink: /2008/07/29/about-wisdom/

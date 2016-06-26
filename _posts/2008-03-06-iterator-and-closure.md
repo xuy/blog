@@ -3,6 +3,7 @@ id: 523
 title: 循环迭代器和闭包
 date: 2008-03-06T18:15:04+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/03/06/iterator-and-closure/
 permalink: /2008/03/06/iterator-and-closure/

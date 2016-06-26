@@ -3,6 +3,7 @@ id: 1200
 title: 童子军军规和习惯培养
 date: 2011-08-07T20:54:10+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1200
 permalink: /2011/08/07/boy-scout-trainings/

@@ -3,6 +3,7 @@ id: 172
 title: 新败滑板一只
 date: 2007-04-21T14:42:32+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/21/%e6%96%b0%e8%b4%a5%e6%bb%91%e6%9d%bf%e4%b8%80%e5%8f%aa/
 permalink: /2007/04/21/wii_and_skateboard/

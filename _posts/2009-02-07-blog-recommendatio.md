@@ -3,6 +3,7 @@ id: 814
 title: 再次推荐刘未鹏的博客
 date: 2009-02-07T09:08:46+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=814
 permalink: /2009/02/07/blog-recommendatio/

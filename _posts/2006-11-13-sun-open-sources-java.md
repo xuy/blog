@@ -3,6 +3,7 @@ id: 3
 title: SUN Open Sources Java
 date: 2006-11-13T07:31:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=3
 permalink: /2006/11/13/sun-open-sources-java/

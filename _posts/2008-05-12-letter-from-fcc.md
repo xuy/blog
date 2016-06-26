@@ -3,6 +3,7 @@ id: 553
 title: 得到回信了
 date: 2008-05-12T15:52:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/12/letter-from-fcc/
 permalink: /2008/05/12/letter-from-fcc/

@@ -3,6 +3,7 @@ id: 934
 title: 美国总统奥巴马在开罗大学的演讲
 date: 2009-06-06T22:41:13+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=934
 permalink: /2009/06/06/obama-speech/

@@ -3,6 +3,7 @@ id: 532
 title: '大型MMORPG杀人游戏&#8221;际莎&#8221;开始内测'
 date: 2008-03-31T22:30:13+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/03/31/mafia-game-in-gtalk/
 permalink: /2008/03/31/mafia-game-in-gtalk/

@@ -3,6 +3,7 @@ id: 552
 title: 操蛋政府的救灾
 date: 2008-05-12T11:35:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/12/disaster-and-motherfucking-govdi/
 permalink: /2008/05/12/disaster-and-motherfucking-govdi/

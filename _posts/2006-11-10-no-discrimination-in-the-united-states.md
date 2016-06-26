@@ -3,6 +3,7 @@ id: 404
 title: No discrimination in the United States
 date: 2006-11-10T12:56:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/11/10/no-discrimination-in-the-united-states/
 permalink: /2006/11/10/no-discrimination-in-the-united-states/

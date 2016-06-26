@@ -3,6 +3,7 @@ id: 453
 title: A Practical Guide to the AIMA Python Code 2
 date: 2007-10-05T00:47:51+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/05/a-practical-guide-to-the-aima-python-code-2/
 permalink: /2007/10/05/a-practical-guide-to-the-aima-python-code-2/

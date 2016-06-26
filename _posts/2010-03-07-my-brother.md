@@ -3,6 +3,7 @@ id: 1064
 title: 帮我弟弟找园林建筑相关行业的实习
 date: 2010-03-07T09:54:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2010/03/07/my-brother/
 permalink: /2010/03/07/my-brother/

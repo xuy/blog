@@ -3,6 +3,7 @@ id: 1087
 title: 博客遭受不知名的木马攻击
 date: 2010-03-24T09:09:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1087
 permalink: /2010/03/24/torjan-attack/

@@ -3,6 +3,7 @@ id: 562
 title: 熵的公理化定义
 date: 2008-05-24T18:24:58+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/24/information-theory-explained/
 permalink: /2008/05/24/information-theory-explained/

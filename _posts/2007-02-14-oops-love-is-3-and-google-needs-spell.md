@@ -3,6 +3,7 @@ id: 129
 title: 'Oops, love is <3 and Google needs a spell checker'
 date: 2007-02-14T23:05:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=129
 permalink: /2007/02/14/oops-love-is-3-and-google-needs-spell/

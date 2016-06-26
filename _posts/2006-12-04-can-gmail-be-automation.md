@@ -3,6 +3,7 @@ id: 73
 title: Can gmail be an automation?
 date: 2006-12-04T09:35:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=73
 permalink: /2006/12/04/can-gmail-be-automation/

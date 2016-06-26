@@ -3,6 +3,7 @@ id: 1091
 title: 思维和语言随笔 2
 date: 2010-03-28T11:57:03+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1091
 permalink: /2010/03/28/language-and-thought/

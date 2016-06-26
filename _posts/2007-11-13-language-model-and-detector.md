@@ -3,6 +3,7 @@ id: 488
 title: 语言模型与语言识别程序 -1
 date: 2007-11-13T01:31:24+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/13/language-model-and-detector/
 permalink: /2007/11/13/language-model-and-detector/

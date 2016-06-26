@@ -3,6 +3,7 @@ id: 210
 title: 控制论阅读笔记
 date: 2007-05-27T19:29:35+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/27/notes-on-cybernetics/
 permalink: /2007/05/27/notes-on-cybernetics/

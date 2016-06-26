@@ -3,6 +3,7 @@ id: 385
 title: 再谈抓住机会的重要性
 date: 2006-10-17T15:08:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/10/17/%e5%86%8d%e8%b0%88%e6%8a%93%e4%bd%8f%e6%9c%ba%e4%bc%9a%e7%9a%84%e9%87%8d%e8%a6%81%e6%80%a7/
 permalink: /2006/10/17/opportunity/

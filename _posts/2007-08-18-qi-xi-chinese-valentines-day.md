@@ -3,6 +3,7 @@ id: 258
 title: 'Qi Xi (Chinese Valentine&#8217;s Day)'
 date: 2007-08-18T12:04:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/18/qi-xi-chinese-valentines-day/
 permalink: /2007/08/18/qi-xi-chinese-valentines-day/

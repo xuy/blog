@@ -3,6 +3,7 @@ id: 177
 title: 技术人员的投资者指南
 date: 2007-04-30T20:15:30+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/30/guidetoinvestors/
 permalink: /2007/04/30/guidetoinvestors/

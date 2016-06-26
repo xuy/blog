@@ -3,6 +3,7 @@ id: 777
 title: 好看的才刚刚开始
 date: 2009-01-15T20:14:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=777
 permalink: /2009/01/15/obama-inauguration/

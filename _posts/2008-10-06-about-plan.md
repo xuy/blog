@@ -3,6 +3,7 @@ id: 654
 title: 编程珠玑番外篇-1.Plan 9 的八卦
 date: 2008-10-06T12:28:58+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=654
 permalink: /2008/10/06/about-plan/

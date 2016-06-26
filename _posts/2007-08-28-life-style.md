@@ -3,6 +3,7 @@ id: 267
 title: 改变生活状态
 date: 2007-08-28T23:43:11+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/28/life-style/
 permalink: /2007/08/28/life-style/

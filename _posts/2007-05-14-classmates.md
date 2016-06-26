@@ -3,6 +3,7 @@ id: 195
 title: 还是同学好
 date: 2007-05-14T13:41:53+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/14/classmates/
 permalink: /2007/05/14/classmates/

@@ -3,6 +3,7 @@ id: 503
 title: 回国了
 date: 2007-12-26T13:27:03+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/12/26/back-to-china/
 permalink: /2007/12/26/back-to-china/

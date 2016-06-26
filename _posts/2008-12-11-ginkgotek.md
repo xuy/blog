@@ -3,6 +3,7 @@ id: 748
 title: 恭喜银杏
 date: 2008-12-11T10:10:53+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=748
 permalink: /2008/12/11/ginkgotek/

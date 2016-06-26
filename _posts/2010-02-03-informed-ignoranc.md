@@ -3,6 +3,7 @@ id: 1049
 title: 从无知到有知
 date: 2010-02-03T23:07:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1049
 permalink: /2010/02/03/informed-ignoranc/

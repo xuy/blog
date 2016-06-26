@@ -3,6 +3,7 @@ id: 794
 title: 那颗价值五千美元的小石头啊
 date: 2009-01-29T23:14:15+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=794
 permalink: /2009/01/29/kidney-stone-2/

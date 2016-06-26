@@ -3,6 +3,7 @@ id: 215
 title: 'What&#8217;s Web 2.0 in a youth view?'
 date: 2007-06-03T14:32:25+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/03/whats-web-20-in-a-youth-view/
 permalink: /2007/06/03/whats-web-20-in-a-youth-view/

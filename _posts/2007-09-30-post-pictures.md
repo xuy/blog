@@ -3,6 +3,7 @@ id: 442
 title: 近况贴图
 date: 2007-09-30T20:14:50+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/30/post-pictures/
 permalink: /2007/09/30/post-pictures/

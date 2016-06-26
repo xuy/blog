@@ -3,6 +3,7 @@ id: 252
 title: Computation and Storage Model for the Web
 date: 2007-08-10T01:35:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/10/computation-and-storge-model-for-the-web/
 permalink: /2007/08/10/computation-and-storge-model-for-the-web/

@@ -3,6 +3,7 @@ id: 30
 title: 什么叫做懂中文
 date: 2006-12-17T21:51:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=30
 permalink: /2006/12/17/understand-chinese/

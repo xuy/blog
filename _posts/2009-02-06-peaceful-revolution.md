@@ -3,6 +3,7 @@ id: 810
 title: 和平演变美国人
 date: 2009-02-06T06:26:46+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=810
 permalink: /2009/02/06/peaceful-revolution/

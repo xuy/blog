@@ -3,6 +3,7 @@ id: 281
 title: The video of Thanksgiving party
 date: 2006-11-24T11:29:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/11/24/video-of-thanksgiving-party/
 permalink: /2006/11/24/video-of-thanksgiving-party/

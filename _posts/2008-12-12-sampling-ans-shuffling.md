@@ -3,6 +3,7 @@ id: 750
 title: 采样和洗牌的几道面试题
 date: 2008-12-12T00:35:57+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=750
 permalink: /2008/12/12/sampling-ans-shuffling/

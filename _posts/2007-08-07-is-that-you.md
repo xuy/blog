@@ -3,6 +3,7 @@ id: 251
 title: 你是你么
 date: 2007-08-07T23:23:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/07/is-that-you/
 permalink: /2007/08/07/is-that-you/

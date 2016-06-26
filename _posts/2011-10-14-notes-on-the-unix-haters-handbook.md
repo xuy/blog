@@ -3,6 +3,7 @@ id: 1223
 title: UNIX 痛恨者手册读后笔记
 date: 2011-10-14T23:23:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1223
 permalink: /2011/10/14/notes-on-the-unix-haters-handbook/

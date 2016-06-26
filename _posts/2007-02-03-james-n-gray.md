@@ -3,6 +3,7 @@ id: 120
 title: 报告，卫星图上没发现James N. Gray
 date: 2007-02-03T10:15:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=120
 permalink: /2007/02/03/james-n-gray/

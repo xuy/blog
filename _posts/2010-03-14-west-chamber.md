@@ -3,6 +3,7 @@ id: 1065
 title: '&#8220;西厢计划&#8221;原理小解'
 date: 2010-03-14T12:06:51+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1065
 permalink: /2010/03/14/west-chamber/

@@ -3,6 +3,7 @@ id: 576
 title: Wall-E 剧透
 date: 2008-06-29T09:20:54+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/06/29/wall-e-%e5%89%a7%e9%80%8f/
 permalink: /2008/06/29/wall-e-spoiler/

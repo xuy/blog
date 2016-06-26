@@ -3,6 +3,7 @@ id: 214
 title: How to prepare a good resume for Google (and other companies)
 date: 2007-06-02T16:18:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/02/resume-for-google/
 permalink: /2007/06/02/resume-for-google/

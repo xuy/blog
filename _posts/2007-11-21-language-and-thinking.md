@@ -3,6 +3,7 @@ id: 495
 title: 语言和思维表达随笔
 date: 2007-11-21T17:25:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/21/language-and-thinking/
 permalink: /2007/11/21/language-and-thinking/

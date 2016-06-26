@@ -3,6 +3,7 @@ id: 440
 title: 中秋节假新闻
 date: 2007-09-24T21:30:59+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/24/middle-autumn/
 permalink: /2007/09/24/middle-autumn/

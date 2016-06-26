@@ -3,6 +3,7 @@ id: 298
 title: GuestBlog-2. 谷歌的失败正好证明Google的成功 by Tinyfool
 date: 2006-12-14T07:14:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/12/14/guestblog-2-google-by-tinyfool/
 permalink: /2006/12/14/guestblog-2-google-by-tinyfool/

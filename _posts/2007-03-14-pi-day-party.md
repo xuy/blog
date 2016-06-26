@@ -3,6 +3,7 @@ id: 144
 title: Pi Day, Party
 date: 2007-03-14T01:09:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=144
 permalink: /2007/03/14/pi-day-party/

@@ -3,6 +3,7 @@ id: 980
 title: 六，七月所读书目
 date: 2009-07-27T21:59:56+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=980
 permalink: /2009/07/27/june-july-readings/

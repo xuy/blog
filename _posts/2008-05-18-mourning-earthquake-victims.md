@@ -3,6 +3,7 @@ id: 559
 title: 向遇难者志哀
 date: 2008-05-18T17:03:29+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/18/mourning-earthquake-victims/
 permalink: /2008/05/18/mourning-earthquake-victims/

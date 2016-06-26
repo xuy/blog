@@ -3,6 +3,7 @@ id: 551
 title: Pyipopt, Python marries with Ipopt
 date: 2008-05-10T14:17:35+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/10/pyipopt-python-marries-with-ipopt/
 permalink: /2008/05/10/pyipopt-python-marries-with-ipopt/

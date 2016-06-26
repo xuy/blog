@@ -3,6 +3,7 @@ id: 384
 title: Maps in Palm
 date: 2006-10-16T18:59:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/10/16/maps-in-palm/
 permalink: /2006/10/16/maps-in-palm/

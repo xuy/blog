@@ -3,6 +3,7 @@ id: 206
 title: 简单的 LINUX Shell 下求集合交集差集的办法
 date: 2007-05-24T21:21:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/24/setop-under-linux-cli/
 permalink: /2007/05/24/setop-under-linux-cli/

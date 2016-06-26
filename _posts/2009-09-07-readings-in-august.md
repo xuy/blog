@@ -3,6 +3,7 @@ id: 1027
 title: 八月所读书目
 date: 2009-09-07T21:29:30+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1027
 permalink: /2009/09/07/readings-in-august/

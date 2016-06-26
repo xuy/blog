@@ -3,6 +3,7 @@ id: 575
 title: An opensource Happy Birthday song in shell
 date: 2008-06-22T22:44:04+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/06/22/an-opensource-happy-birthday-song-in-shell/
 permalink: /2008/06/22/an-opensource-happy-birthday-song-in-shell/

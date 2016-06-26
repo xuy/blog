@@ -3,6 +3,7 @@ id: 259
 title: 推荐几篇关于密码学的文章
 date: 2007-08-21T23:28:41+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/21/cryptography/
 permalink: /2007/08/21/cryptography/

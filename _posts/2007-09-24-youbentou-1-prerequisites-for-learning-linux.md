@@ -3,6 +3,7 @@ id: 439
 title: 我学Linux的几个体会
 date: 2007-09-24T00:26:02+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/24/youbentou-1-prerequisites-for-learning-linux/
 permalink: /2007/09/24/youbentou-1-prerequisites-for-learning-linux/

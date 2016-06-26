@@ -3,6 +3,7 @@ id: 171
 title: 十年数海拾贝路
 date: 2007-04-18T22:09:06+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/18/math_ten_years/
 permalink: /2007/04/18/math_ten_years/

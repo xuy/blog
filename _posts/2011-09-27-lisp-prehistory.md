@@ -3,6 +3,7 @@ id: 1213
 title: 编程珠玑番外篇 -K. 高级语言是怎么来的-7
 date: 2011-09-27T16:49:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1213
 permalink: /2011/09/27/lisp-prehistory/

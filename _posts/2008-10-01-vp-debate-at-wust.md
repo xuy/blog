@@ -3,6 +3,7 @@ id: 647
 title: 副总统辩论来到 wustl
 date: 2008-10-01T18:17:58+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=647
 permalink: /2008/10/01/vp-debate-at-wust/

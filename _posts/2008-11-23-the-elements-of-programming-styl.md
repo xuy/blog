@@ -3,6 +3,7 @@ id: 718
 title: 编程珠玑番外篇-7.比代码大全好的两本书B
 date: 2008-11-23T21:12:46+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=718
 permalink: /2008/11/23/the-elements-of-programming-styl/

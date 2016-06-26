@@ -3,6 +3,7 @@ id: 402
 title: How to use remote desktop access on RH
 date: 2006-11-07T15:53:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/11/07/how-to-use-remote-desktop-access-on-rh/
 permalink: /2006/11/07/how-to-use-remote-desktop-access-on-rh/

@@ -3,6 +3,7 @@ id: 679
 title: Obama 的胜利将是web2.0 的胜利
 date: 2008-10-28T19:51:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=679
 permalink: /2008/10/28/obama-and-web20/

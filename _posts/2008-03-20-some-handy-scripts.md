@@ -3,6 +3,7 @@ id: 530
 title: 几个趁手语句
 date: 2008-03-20T22:39:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/03/20/some-handy-scripts/
 permalink: /2008/03/20/some-handy-scripts/

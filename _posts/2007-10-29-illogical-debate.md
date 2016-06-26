@@ -3,6 +3,7 @@ id: 480
 title: 无法辩论
 date: 2007-10-29T21:38:32+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/29/illogical-debate/
 permalink: /2007/10/29/illogical-debate/

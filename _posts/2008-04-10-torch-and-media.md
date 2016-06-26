@@ -3,6 +3,7 @@ id: 540
 title: 介绍两篇文章
 date: 2008-04-10T00:51:41+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/04/10/torch-and-media/
 permalink: /2008/04/10/torch-and-media/

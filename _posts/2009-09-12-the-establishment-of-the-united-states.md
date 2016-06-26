@@ -3,6 +3,7 @@ id: 1029
 title: 美利坚的建国大业
 date: 2009-09-12T23:49:54+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1029
 permalink: /2009/09/12/the-establishment-of-the-united-states/

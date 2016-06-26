@@ -3,6 +3,7 @@ id: 157
 title: GuestBlog-7 公共资源和几个网站Beta By Angke Chen
 date: 2007-04-08T12:21:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=157
 permalink: /2007/04/08/guestblog-7-by-angke/

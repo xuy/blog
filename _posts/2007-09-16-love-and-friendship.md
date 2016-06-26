@@ -3,6 +3,7 @@ id: 434
 title: 'Guest Blog-8 世界上真有如此好的人么？&#8211; By Baiyin Cai'
 date: 2007-09-16T18:27:26+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/16/love-and-friendship/
 permalink: /2007/09/16/love-and-friendship/

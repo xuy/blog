@@ -3,6 +3,7 @@ id: 95
 title: 菊花台，满城尽是错歌词
 date: 2007-01-01T18:00:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=95
 permalink: /2007/01/01/the-curse-of-golden-flower/

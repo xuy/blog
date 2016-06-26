@@ -3,6 +3,7 @@ id: 496
 title: 各位朋友, 请不要向我传福音
 date: 2007-11-27T00:07:53+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/27/i-will-go-to-hell/
 permalink: /2007/11/27/i-will-go-to-hell/

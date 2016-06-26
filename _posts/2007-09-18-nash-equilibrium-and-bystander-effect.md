@@ -3,6 +3,7 @@ id: 435
 title: 'Guest Blog-9 从纳什均衡看旁观者效应 &#8212; By Zhiqiang Zhang'
 date: 2007-09-18T18:21:35+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/18/nash-equilibrium-and-bystander-effect/
 permalink: /2007/09/18/nash-equilibrium-and-bystander-effect/

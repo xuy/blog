@@ -3,6 +3,7 @@ id: 470
 title: 本周杂七杂八
 date: 2007-10-29T00:51:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/29/weekly-random-stuff/
 permalink: /2007/10/29/weekly-random-stuff/

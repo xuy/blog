@@ -3,6 +3,7 @@ id: 433
 title: 强迫自己积极参与公益事业备忘录
 date: 2007-09-14T23:09:52+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/14/memo-on-commonweal/
 permalink: /2007/09/14/memo-on-commonweal/

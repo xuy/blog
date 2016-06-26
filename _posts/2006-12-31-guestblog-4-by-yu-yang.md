@@ -3,6 +3,7 @@ id: 93
 title: 'GuestBlog-4. (新年专稿) 科学在哪里？ &#8211;By Yu Yang'
 date: 2006-12-31T13:20:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=93
 permalink: /2006/12/31/guestblog-4-by-yu-yang/

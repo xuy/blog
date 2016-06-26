@@ -3,6 +3,7 @@ id: 174
 title: 口碑比人脉重要
 date: 2007-04-25T08:14:24+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/25/word-of-mouth/
 permalink: /2007/04/25/word-of-mouth/

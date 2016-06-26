@@ -3,6 +3,7 @@ id: 1123
 title: 养儿防老
 date: 2010-08-08T23:51:10+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1123
 permalink: /2010/08/08/children-as-investment/

@@ -3,6 +3,7 @@ id: 455
 title: 给那些说Linux图形界面不好看的人
 date: 2007-10-05T23:44:57+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/05/cool-linux/
 permalink: /2007/10/05/cool-linux/

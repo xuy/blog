@@ -3,6 +3,7 @@ id: 180
 title: digg 和 数字千年法
 date: 2007-05-02T17:56:14+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/02/digg-and-dmca/
 permalink: /2007/05/02/digg-and-dmca/

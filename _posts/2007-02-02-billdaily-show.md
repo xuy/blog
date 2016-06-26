@@ -3,6 +3,7 @@ id: 119
 title: Bill大叔在Daily Show
 date: 2007-02-02T16:49:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=119
 permalink: /2007/02/02/billdaily-show/

@@ -3,6 +3,7 @@ id: 1294
 title: 现代人的必备知识：药理学
 date: 2013-05-29T07:26:21+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1294
 permalink: /2013/05/29/pharmacology/

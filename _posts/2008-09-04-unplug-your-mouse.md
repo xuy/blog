@@ -3,6 +3,7 @@ id: 616
 title: '完全用命令行工作-1: 拔掉你的鼠标'
 date: 2008-09-04T08:33:20+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=616
 permalink: /2008/09/04/unplug-your-mouse/

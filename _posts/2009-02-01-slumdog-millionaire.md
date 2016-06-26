@@ -3,6 +3,7 @@ id: 797
 title: 我也成了一夜暴富的民工哥
 date: 2009-02-01T16:58:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=797
 permalink: /2009/02/01/slumdog-millionaire/

@@ -3,6 +3,7 @@ id: 821
 title: 谨以此文献给在网上打口水战的各位
 date: 2009-02-08T23:26:17+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=821
 permalink: /2009/02/08/keep-your-identity-small/

@@ -3,6 +3,7 @@ id: 466
 title: OK, enough about Asian girl
 date: 2007-10-17T11:17:32+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/17/ok-enough-about-asian-girl/
 permalink: /2007/10/17/ok-enough-about-asian-girl/

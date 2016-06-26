@@ -3,6 +3,7 @@ id: 105
 title: Fibonecei的邮票矩阵
 date: 2007-01-16T20:46:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=105
 permalink: /2007/01/16/fibonecei/

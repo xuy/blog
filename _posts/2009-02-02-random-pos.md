@@ -3,6 +3,7 @@ id: 802
 title: 关于英语发音好为人师一把
 date: 2009-02-02T23:56:39+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=802
 permalink: /2009/02/02/random-pos/

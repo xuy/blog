@@ -3,6 +3,7 @@ id: 518
 title: 我曾经错过怎样的风景
 date: 2008-02-10T21:59:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/02/10/missing-and-thinking/
 permalink: /2008/02/10/missing-and-thinking/

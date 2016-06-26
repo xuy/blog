@@ -3,6 +3,7 @@ id: 261
 title: 'Protected: 二十年政治考试题和学生守则'
 date: 2007-08-23T17:52:10+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/23/devolution/
 permalink: /2007/08/23/devolution/

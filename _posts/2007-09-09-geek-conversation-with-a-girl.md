@@ -3,6 +3,7 @@ id: 272
 title: Geek conversation with a girl
 date: 2007-09-09T20:23:24+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/09/geek-conversation-with-a-girl/
 permalink: /2007/09/09/geek-conversation-with-a-girl/

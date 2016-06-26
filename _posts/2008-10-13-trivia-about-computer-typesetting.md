@@ -3,6 +3,7 @@ id: 660
 title: 编程珠玑番外篇-2.计算机图书排版的八卦
 date: 2008-10-13T22:06:02+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=660
 permalink: /2008/10/13/trivia-about-computer-typesetting/

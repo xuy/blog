@@ -3,6 +3,7 @@ id: 269
 title: Blog 只是我生活的一小部分
 date: 2007-09-04T22:12:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/04/blog-and-life/
 permalink: /2007/09/04/blog-and-life/

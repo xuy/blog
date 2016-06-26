@@ -3,6 +3,7 @@ id: 438
 title: Live free, and die with significance
 date: 2007-09-22T23:47:40+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/22/live-free-and-die-with-significance/
 permalink: /2007/09/22/live-free-and-die-with-significance/

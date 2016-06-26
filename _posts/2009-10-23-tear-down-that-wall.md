@@ -3,6 +3,7 @@ id: 1038
 title: 隔墙花影动
 date: 2009-10-23T08:02:51+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1038
 permalink: /2009/10/23/tear-down-that-wall/

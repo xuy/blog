@@ -3,6 +3,7 @@ id: 227
 title: 关于Bloom Filter 补充说几句
 date: 2007-07-03T22:40:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/07/03/bloom-filter/
 permalink: /2007/07/03/bloom-filter/

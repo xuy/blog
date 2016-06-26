@@ -3,6 +3,7 @@ id: 781
 title: 编程珠玑番外篇-B.P2P客户端的策略和奇妙的对策论-2
 date: 2009-01-19T16:16:55+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=781
 permalink: /2009/01/19/tit-for-tat-and-p2p-client/

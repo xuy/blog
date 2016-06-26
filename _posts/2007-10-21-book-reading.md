@@ -3,6 +3,7 @@ id: 468
 title: 关于读书
 date: 2007-10-21T23:11:24+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/21/book-reading/
 permalink: /2007/10/21/book-reading/

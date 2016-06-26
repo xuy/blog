@@ -3,6 +3,7 @@ id: 775
 title: 记一件有意义的事
 date: 2009-01-13T10:51:50+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=775
 permalink: /2009/01/13/kidney-stone/

@@ -3,6 +3,7 @@ id: 5
 title: 02 Math-er, all around the world
 date: 2006-11-15T19:42:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=5
 permalink: /2006/11/15/02-math-er-all-around-the-world/

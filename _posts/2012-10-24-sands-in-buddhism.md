@@ -3,6 +3,7 @@ id: 1266
 title: 佛教艺术中的沙
 date: 2012-10-24T22:07:35+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1266
 permalink: /2012/10/24/sands-in-buddhism/

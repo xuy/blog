@@ -3,6 +3,7 @@ id: 193
 title: 母亲节
 date: 2007-05-13T20:44:57+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/13/mothers-day/
 permalink: /2007/05/13/mothers-day/

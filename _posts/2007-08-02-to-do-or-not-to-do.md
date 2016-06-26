@@ -3,6 +3,7 @@ id: 248
 title: To do or not to do
 date: 2007-08-02T15:18:50+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/02/to-do-or-not-to-do/
 permalink: /2007/08/02/to-do-or-not-to-do/

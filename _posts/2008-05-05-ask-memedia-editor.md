@@ -3,6 +3,7 @@ id: 550
 title: 问草莓
 date: 2008-05-05T09:04:53+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/05/ask-memedia-editor/
 permalink: /2008/05/05/ask-memedia-editor/

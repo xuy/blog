@@ -3,6 +3,7 @@ id: 500
 title: 我不会使用海内, 各位暂时不要给我发邀请了
 date: 2007-12-04T12:22:32+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/12/04/byebye-hainei/
 permalink: /2007/12/04/byebye-hainei/

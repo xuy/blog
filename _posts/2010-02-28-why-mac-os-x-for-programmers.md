@@ -3,6 +3,7 @@ id: 1057
 title: 开发人员为何应该使用 Mac OS X 兼 OS X 小史
 date: 2010-02-28T00:03:57+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1057
 permalink: /2010/02/28/why-mac-os-x-for-programmers/

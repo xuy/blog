@@ -3,6 +3,7 @@ id: 595
 title: 奥运期间博客应当实行单双号限写
 date: 2008-07-23T20:52:03+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=595
 permalink: /2008/07/23/odd-even-number-restriction-on-chinese-blog-posting/

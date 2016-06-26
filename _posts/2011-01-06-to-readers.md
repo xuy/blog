@@ -3,6 +3,7 @@ id: 1173
 title: 请给番外篇系列文章提意见
 date: 2011-01-06T23:51:11+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1173
 permalink: /2011/01/06/to-readers/

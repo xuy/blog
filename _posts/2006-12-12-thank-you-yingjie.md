@@ -3,6 +3,7 @@ id: 26
 title: Thank you Yingjie
 date: 2006-12-12T18:16:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=26
 permalink: /2006/12/12/thank-you-yingjie/

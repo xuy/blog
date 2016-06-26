@@ -3,6 +3,7 @@ id: 1005
 title: 编程珠玑番外篇-G. 程序员心底的小声音
 date: 2009-08-19T19:19:23+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1005
 permalink: /2009/08/19/astill-small-voice-for-programmers/

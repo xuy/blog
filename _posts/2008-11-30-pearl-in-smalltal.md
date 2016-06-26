@@ -3,6 +3,7 @@ id: 724
 title: 编程珠玑番外篇-8.Smalltalk 中的珠玑
 date: 2008-11-30T12:52:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=724
 permalink: /2008/11/30/pearl-in-smalltal/

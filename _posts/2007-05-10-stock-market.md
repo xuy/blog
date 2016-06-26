@@ -3,6 +3,7 @@ id: 187
 title: 现象
 date: 2007-05-10T13:15:07+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/10/stock-market/
 permalink: /2007/05/10/stock-market/

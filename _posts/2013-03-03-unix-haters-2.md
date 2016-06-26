@@ -3,6 +3,7 @@ id: 1278
 title: '编程珠玑番外篇之番外篇-N  答 UNIX 痛恨者王垠'
 date: 2013-03-03T10:07:37+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1278
 permalink: /2013/03/03/unix-haters-2/

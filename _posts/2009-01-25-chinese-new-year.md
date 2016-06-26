@@ -3,6 +3,7 @@ id: 787
 title: 那四处折腾的老鼠呀, 阿牛哥费尽千辛万苦终于将你缉拿
 date: 2009-01-25T08:53:45+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=787
 permalink: /2009/01/25/chinese-new-year/

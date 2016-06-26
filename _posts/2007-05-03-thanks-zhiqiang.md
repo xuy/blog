@@ -3,6 +3,7 @@ id: 183
 title: 诚挚感谢
 date: 2007-05-03T23:54:17+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/03/%e8%af%9a%e6%8c%9a%e6%84%9f%e8%b0%a2/
 permalink: /2007/05/03/thanks-zhiqiang/

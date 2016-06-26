@@ -3,6 +3,7 @@ id: 481
 title: 读书散记
 date: 2007-10-30T23:18:51+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/30/reading-notes/
 permalink: /2007/10/30/reading-notes/

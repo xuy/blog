@@ -3,6 +3,7 @@ id: 128
 title: 'Happy Valentine&#8217;s Day Everyone!'
 date: 2007-02-14T09:21:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=128
 permalink: /2007/02/14/happy-valentines-day-everyone/

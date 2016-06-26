@@ -3,6 +3,7 @@ id: 383
 title: 在美国第一次穿雨衣
 date: 2006-10-16T15:40:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/10/16/%e5%9c%a8%e7%be%8e%e5%9b%bd%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%a9%bf%e9%9b%a8%e8%a1%a3/
 permalink: /2006/10/16/%e5%9c%a8%e7%be%8e%e5%9b%bd%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%a9%bf%e9%9b%a8%e8%a1%a3/

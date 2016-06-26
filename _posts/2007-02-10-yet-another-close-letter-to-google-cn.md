@@ -3,6 +3,7 @@ id: 126
 title: Yet another close letter to Google CN
 date: 2007-02-10T08:28:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=126
 permalink: /2007/02/10/yet-another-close-letter-to-google-cn/

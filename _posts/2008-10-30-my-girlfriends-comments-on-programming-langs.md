@@ -3,6 +3,7 @@ id: 687
 title: 'My girlfriend&#8217;s comments on programming langs'
 date: 2008-10-30T18:23:43+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=687
 permalink: /2008/10/30/my-girlfriends-comments-on-programming-langs/

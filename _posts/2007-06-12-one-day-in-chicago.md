@@ -3,6 +3,7 @@ id: 219
 title: 芝加哥一日行
 date: 2007-06-12T20:03:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/12/one-day-in-chicago/
 permalink: /2007/06/12/one-day-in-chicago/

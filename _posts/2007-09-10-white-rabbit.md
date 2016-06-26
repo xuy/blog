@@ -3,6 +3,7 @@ id: 274
 title: 关于大白兔
 date: 2007-09-10T23:38:25+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/10/white-rabbit/
 permalink: /2007/09/10/white-rabbit/

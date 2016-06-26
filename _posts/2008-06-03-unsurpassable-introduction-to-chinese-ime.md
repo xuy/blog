@@ -3,6 +3,7 @@ id: 569
 title: 眼前有景道不得, 崔颢题诗在上头
 date: 2008-06-03T20:31:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/06/03/unsurpassable-introduction-to-chinese-ime/
 permalink: /2008/06/03/unsurpassable-introduction-to-chinese-ime/

@@ -3,6 +3,7 @@ id: 153
 title: A big decision
 date: 2007-03-31T19:52:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=153
 permalink: /2007/03/31/big-decision/

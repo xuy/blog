@@ -3,6 +3,7 @@ id: 1188
 title: 编程珠玑番外篇-K. Plan 9 的故事（修订版）
 date: 2011-03-21T13:12:42+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1188
 permalink: /2011/03/21/story-of-plan-9-revised/

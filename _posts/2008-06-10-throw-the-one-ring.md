@@ -3,6 +3,7 @@ id: 573
 title: 全是魔戒惹的祸
 date: 2008-06-10T21:25:23+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/06/10/throw-the-one-ring/
 permalink: /2008/06/10/throw-the-one-ring/

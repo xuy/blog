@@ -3,6 +3,7 @@ id: 779
 title: 出栈序列题的终极解法
 date: 2009-01-18T17:36:31+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=779
 permalink: /2009/01/18/stack-problem/

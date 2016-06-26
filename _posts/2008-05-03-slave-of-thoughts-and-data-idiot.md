@@ -3,6 +3,7 @@ id: 549
 title: 数据萝莉和思想奴隶
 date: 2008-05-03T11:13:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/03/slave-of-thoughts-and-data-idiot/
 permalink: /2008/05/03/slave-of-thoughts-and-data-idiot/

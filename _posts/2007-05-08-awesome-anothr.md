@@ -3,6 +3,7 @@ id: 185
 title: 让我惊艳的哪吒(anothr)
 date: 2007-05-08T21:33:03+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/08/awesome-anothr/
 permalink: /2007/05/08/awesome-anothr/

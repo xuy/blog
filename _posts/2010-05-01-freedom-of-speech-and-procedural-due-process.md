@@ -3,6 +3,7 @@ id: 1100
 title: 言论自由和程序正义
 date: 2010-05-01T07:11:39+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1100
 permalink: /2010/05/01/freedom-of-speech-and-procedural-due-process/

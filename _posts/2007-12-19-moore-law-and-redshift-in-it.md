@@ -3,6 +3,7 @@ id: 502
 title: IT 产业的超摩尔发展率和红移理论
 date: 2007-12-19T23:20:58+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/12/19/moore-law-and-redshift-in-it/
 permalink: /2007/12/19/moore-law-and-redshift-in-it/

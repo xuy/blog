@@ -3,6 +3,7 @@ id: 905
 title: To boldly go where no man has gone before
 date: 2009-05-10T21:29:37+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=905
 permalink: /2009/05/10/to-boldly-go-where-no-man-has-gone-before/

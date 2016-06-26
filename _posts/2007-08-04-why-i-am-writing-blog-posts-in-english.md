@@ -3,6 +3,7 @@ id: 249
 title: Why I am writing blog posts in English
 date: 2007-08-04T23:27:26+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/04/why-i-am-writing-blog-posts-in-english/
 permalink: /2007/08/04/why-i-am-writing-blog-posts-in-english/

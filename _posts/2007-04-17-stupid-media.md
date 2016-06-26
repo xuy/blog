@@ -3,6 +3,7 @@ id: 170
 title: 一切傻X都是自证的
 date: 2007-04-17T09:11:12+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/17/%e4%b8%80%e5%88%87%e5%82%bbx%e9%83%bd%e6%98%af%e8%87%aa%e8%af%81%e7%9a%84/
 permalink: /2007/04/17/stupid-media/

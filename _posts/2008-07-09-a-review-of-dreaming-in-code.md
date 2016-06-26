@@ -3,6 +3,7 @@ id: 587
 title: Dreaming in Code 书评
 date: 2008-07-09T19:19:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/07/09/a-review-of-dreaming-in-code/
 permalink: /2008/07/09/a-review-of-dreaming-in-code/

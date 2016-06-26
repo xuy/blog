@@ -3,6 +3,7 @@ id: 240
 title: Totally random
 date: 2007-07-18T12:40:18+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/07/18/totally-random/
 permalink: /2007/07/18/totally-random/

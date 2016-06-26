@@ -3,6 +3,7 @@ id: 982
 title: 智能家庭设计的一些想法
 date: 2009-08-04T10:57:15+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=982
 permalink: /2009/08/04/smarthome/

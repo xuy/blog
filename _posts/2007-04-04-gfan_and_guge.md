@@ -3,6 +3,7 @@ id: 156
 title: 别拿技术忽悠人
 date: 2007-04-04T22:32:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=156
 permalink: /2007/04/04/gfan_and_guge/

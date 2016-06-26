@@ -3,6 +3,7 @@ id: 871
 title: 暑假回国计划
 date: 2009-04-12T13:59:08+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=871
 permalink: /2009/04/12/summer-plan/

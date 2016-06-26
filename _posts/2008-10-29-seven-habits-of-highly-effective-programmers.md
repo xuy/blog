@@ -3,6 +3,7 @@ id: 682
 title: 编程珠玑番外篇-6.高效能编程的七个好习惯
 date: 2008-10-29T19:23:39+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=682
 permalink: /2008/10/29/seven-habits-of-highly-effective-programmers/

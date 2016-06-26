@@ -3,6 +3,7 @@ id: 498
 title: How to give a program fake system time so that you can use it forever (Linux)
 date: 2007-12-01T02:00:52+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/12/01/how-to-give-a-program-fake-system-time-so-that-you-can-use-it-forever-linux/
 permalink: /2007/12/01/how-to-give-a-program-fake-system-time-so-that-you-can-use-it-forever-linux/

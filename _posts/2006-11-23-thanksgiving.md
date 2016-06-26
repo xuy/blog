@@ -3,6 +3,7 @@ id: 9
 title: 舒服惬意的感恩节(昨晚party+今日大餐)
 date: 2006-11-23T14:28:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=9
 permalink: /2006/11/23/thanksgiving/

@@ -3,6 +3,7 @@ id: 10
 title: 客座Blog正式开始
 date: 2006-11-24T09:16:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=10
 permalink: /2006/11/24/%e5%ae%a2%e5%ba%a7blog%e6%ad%a3%e5%bc%8f%e5%bc%80%e5%a7%8b/

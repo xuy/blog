@@ -3,6 +3,7 @@ id: 460
 title: 'This week&#8217;s funny stuff'
 date: 2007-10-07T23:33:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/07/this-weeks-funny-stuff/
 permalink: /2007/10/07/this-weeks-funny-stuff/

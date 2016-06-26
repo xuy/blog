@@ -3,6 +3,7 @@ id: 885
 title: 又当了一次一夜暴富的民工哥
 date: 2009-04-20T15:28:56+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=885
 permalink: /2009/04/20/essay-contest/

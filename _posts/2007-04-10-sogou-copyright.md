@@ -3,6 +3,7 @@ id: 160
 title: 关于版权说几句
 date: 2007-04-10T18:33:18+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/10/sogou-copyright/
 permalink: /2007/04/10/sogou-copyright/

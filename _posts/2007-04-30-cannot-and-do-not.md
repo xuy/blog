@@ -3,6 +3,7 @@ id: 176
 title: 非不为, 是不能
 date: 2007-04-30T08:28:05+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/30/cannot-and-do-not/
 permalink: /2007/04/30/cannot-and-do-not/

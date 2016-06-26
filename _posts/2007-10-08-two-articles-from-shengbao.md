@@ -3,6 +3,7 @@ id: 461
 title: 转贴两篇Baosheng 同学的文章
 date: 2007-10-08T21:45:12+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/08/two-articles-from-shengbao/
 permalink: /2007/10/08/two-articles-from-shengbao/

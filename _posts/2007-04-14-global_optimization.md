@@ -3,6 +3,7 @@ id: 168
 title: 全局最优
 date: 2007-04-14T12:56:20+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/14/global_optimization/
 permalink: /2007/04/14/global_optimization/

@@ -3,6 +3,7 @@ id: 220
 title: Google 如此找人, 让我害怕
 date: 2007-06-15T22:45:23+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/15/google-sourcer/
 permalink: /2007/06/15/google-sourcer/

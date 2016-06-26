@@ -3,6 +3,7 @@ id: 543
 title: 贴照片
 date: 2008-04-16T16:30:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/04/16/recent-photo/
 permalink: /2008/04/16/recent-photo/

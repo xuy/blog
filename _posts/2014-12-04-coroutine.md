@@ -3,6 +3,8 @@ id: 1318
 title: 编程珠玑番外篇-Q 协程的历史，现在和未来
 date: 2014-12-04T00:10:52+00:00
 author: Eric
+comments: true
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1318
 permalink: /2014/12/04/coroutine/

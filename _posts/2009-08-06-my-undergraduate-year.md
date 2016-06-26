@@ -3,6 +3,7 @@ id: 987
 title: 我的大学
 date: 2009-08-06T10:41:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=987
 permalink: /2009/08/06/my-undergraduate-year/

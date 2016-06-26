@@ -3,6 +3,7 @@ id: 924
 title: 最终回国行程
 date: 2009-05-19T13:45:44+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=924
 permalink: /2009/05/19/itertarany/

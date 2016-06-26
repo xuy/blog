@@ -3,6 +3,7 @@ id: 273
 title: 几条面试题
 date: 2007-09-10T22:55:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/09/10/it-interviews/
 permalink: /2007/09/10/it-interviews/

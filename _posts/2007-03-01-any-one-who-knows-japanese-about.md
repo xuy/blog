@@ -3,6 +3,7 @@ id: 135
 title: Anyone knows Japanese? (About Baidu.jp)
 date: 2007-03-01T17:30:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=135
 permalink: /2007/03/01/any-one-who-knows-japanese-about/

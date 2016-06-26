@@ -3,6 +3,7 @@ id: 499
 title: 国家林业局还真幽默, 专门讲笑话给台湾同胞听
 date: 2007-12-03T23:27:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/12/03/paper-tiger-2/
 permalink: /2007/12/03/paper-tiger-2/

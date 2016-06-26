@@ -3,6 +3,7 @@ id: 225
 title: '&#8220;科学&#8221;证明的科学性和作用'
 date: 2007-06-29T22:03:40+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/29/proof-or-spoof/
 permalink: /2007/06/29/proof-or-spoof/

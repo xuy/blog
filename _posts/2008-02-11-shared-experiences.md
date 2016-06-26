@@ -3,6 +3,7 @@ id: 519
 title: 为什么有这么多的人生精华要分享？
 date: 2008-02-11T16:34:50+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/02/11/shared-experiences/
 permalink: /2008/02/11/shared-experiences/

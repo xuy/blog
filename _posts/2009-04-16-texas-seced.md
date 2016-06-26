@@ -3,6 +3,7 @@ id: 883
 title: 德州州长要分裂美国
 date: 2009-04-16T21:33:09+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=883
 permalink: /2009/04/16/texas-seced/

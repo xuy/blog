@@ -3,6 +3,7 @@ id: 705
 title: 听说那个有太祖题词的校门要拆了
 date: 2008-11-21T18:34:18+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=705
 permalink: /2008/11/21/nanjing-university-destruction/

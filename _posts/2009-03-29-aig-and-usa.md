@@ -3,6 +3,7 @@ id: 850
 title: AIG 折射的美国国家架构和各自强大指数
 date: 2009-03-29T17:46:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=850
 permalink: /2009/03/29/aig-and-usa/

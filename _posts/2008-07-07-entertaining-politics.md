@@ -3,6 +3,7 @@ id: 584
 title: 娱乐化, 面具化
 date: 2008-07-07T19:00:58+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/07/07/entertaining-politics/
 permalink: /2008/07/07/entertaining-politics/

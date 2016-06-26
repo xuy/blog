@@ -3,6 +3,7 @@ id: 1034
 title: 如何逃离囚徒困境
 date: 2009-10-01T21:23:43+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1034
 permalink: /2009/10/01/out-of-prisoners-dilemma/

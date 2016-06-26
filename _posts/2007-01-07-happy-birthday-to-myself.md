@@ -3,6 +3,7 @@ id: 312
 title: Happy Birthday to myself
 date: 2007-01-07T13:13:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/01/07/happy-birthday-to-myself/
 permalink: /2007/01/07/happy-birthday-to-myself/

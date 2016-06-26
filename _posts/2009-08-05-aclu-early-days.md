@@ -3,6 +3,7 @@ id: 984
 title: ACLU 早期历史和领导人
 date: 2009-08-05T21:31:14+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=984
 permalink: /2009/08/05/aclu-early-days/

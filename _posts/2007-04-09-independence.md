@@ -3,6 +3,7 @@ id: 158
 title: 复活节 独立日
 date: 2007-04-09T05:50:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=158
 permalink: /2007/04/09/independence/

@@ -3,6 +3,7 @@ id: 640
 title: 50 周年的 NASA
 date: 2008-10-01T10:27:54+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=640
 permalink: /2008/10/01/nasa-50-anniversary/

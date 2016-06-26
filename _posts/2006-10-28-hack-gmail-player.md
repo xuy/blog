@@ -3,6 +3,7 @@ id: 394
 title: Hack Gmail Player
 date: 2006-10-28T12:28:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/10/28/hack-gmail-player/
 permalink: /2006/10/28/hack-gmail-player/

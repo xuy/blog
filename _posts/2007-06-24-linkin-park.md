@@ -3,6 +3,7 @@ id: 223
 title: I Love Linkin Park
 date: 2007-06-24T17:09:26+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/24/linkin-park/
 permalink: /2007/06/24/linkin-park/

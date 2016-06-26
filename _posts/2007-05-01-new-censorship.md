@@ -3,6 +3,7 @@ id: 179
 title: 互联网的新审查
 date: 2007-05-01T20:38:36+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/01/new-censorship/
 permalink: /2007/05/01/new-censorship/

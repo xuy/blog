@@ -3,6 +3,7 @@ id: 1307
 title: 编程珠玑番外篇-P PostScript 语言里的珠玑
 date: 2014-06-10T15:04:53+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1307
 permalink: /2014/06/10/postscript/

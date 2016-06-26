@@ -3,6 +3,7 @@ id: 558
 title: 骂人要有建设性 附送两篇墙外文章
 date: 2008-05-17T22:30:45+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/17/constructive-criticism/
 permalink: /2008/05/17/constructive-criticism/

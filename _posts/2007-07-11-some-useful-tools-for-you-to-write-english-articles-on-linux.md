@@ -3,6 +3,7 @@ id: 234
 title: Some useful tools for you to write English articles on Linux
 date: 2007-07-11T22:50:40+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/07/11/some-useful-tools-for-you-to-write-english-articles-on-linux/
 permalink: /2007/07/11/some-useful-tools-for-you-to-write-english-articles-on-linux/

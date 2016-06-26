@@ -3,6 +3,7 @@ id: 903
 title: 美国公民自由联盟的那些著名官司-5
 date: 2009-05-08T10:28:11+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=903
 permalink: /2009/05/08/4th-amendment/

@@ -3,6 +3,7 @@ id: 450
 title: Install Ubuntu on Dell Vostro 200
 date: 2007-10-07T23:40:43+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/07/install-ubuntu-on-dell-vostro-200/
 permalink: /2007/10/07/install-ubuntu-on-dell-vostro-200/

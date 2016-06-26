@@ -3,6 +3,7 @@ id: 1239
 title: 编程珠玑番外篇 -L. Plan 9 管道工的启发
 date: 2011-11-24T21:50:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1239
 permalink: /2011/11/24/plan-9-plumber/

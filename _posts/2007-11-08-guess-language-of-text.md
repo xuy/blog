@@ -3,6 +3,7 @@ id: 484
 title: 识别文本用哪种语言写成
 date: 2007-11-08T15:13:34+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/08/guess-language-of-text/
 permalink: /2007/11/08/guess-language-of-text/

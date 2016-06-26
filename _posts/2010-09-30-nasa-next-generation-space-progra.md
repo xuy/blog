@@ -3,6 +3,7 @@ id: 1151
 title: 美国下一代空间计划
 date: 2010-09-30T08:58:23+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1151
 permalink: /2010/09/30/nasa-next-generation-space-progra/

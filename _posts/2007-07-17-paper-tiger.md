@@ -3,6 +3,7 @@ id: 239
 title: 一堵没技术的伪科学的墙
 date: 2007-07-17T22:04:04+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/07/17/paper-tiger/
 permalink: /2007/07/17/paper-tiger/

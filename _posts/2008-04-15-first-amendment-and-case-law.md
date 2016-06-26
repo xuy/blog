@@ -3,6 +3,7 @@ id: 542
 title: 第一修正案以及相关判例
 date: 2008-04-15T22:25:06+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/04/15/first-amendment-and-case-law/
 permalink: /2008/04/15/first-amendment-and-case-law/

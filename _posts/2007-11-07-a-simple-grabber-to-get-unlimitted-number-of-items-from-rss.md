@@ -3,6 +3,7 @@ id: 483
 title: A simple grabber to get unlimitted number of items from RSS
 date: 2007-11-07T00:10:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/07/a-simple-grabber-to-get-unlimitted-number-of-items-from-rss/
 permalink: /2007/11/07/a-simple-grabber-to-get-unlimitted-number-of-items-from-rss/

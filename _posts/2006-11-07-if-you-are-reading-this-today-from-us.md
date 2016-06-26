@@ -3,6 +3,7 @@ id: 401
 title: If you are reading this today from US
 date: 2006-11-07T06:55:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/11/07/if-you-are-reading-this-today-from-us/
 permalink: /2006/11/07/if-you-are-reading-this-today-from-us/

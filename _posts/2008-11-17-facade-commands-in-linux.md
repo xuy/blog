@@ -3,6 +3,7 @@ id: 703
 title: 编程珠玑番外篇-4. Linux 下的 Facade 程序
 date: 2008-11-17T23:21:43+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=703
 permalink: /2008/11/17/facade-commands-in-linux/

@@ -3,6 +3,7 @@ id: 868
 title: 小强创业者
 date: 2009-04-11T09:41:56+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=868
 permalink: /2009/04/11/get-ric-slow/

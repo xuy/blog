@@ -3,6 +3,7 @@ id: 108
 title: 续《面纱》(The Painted Veil)
 date: 2007-01-21T22:51:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=108
 permalink: /2007/01/21/painted-veil/

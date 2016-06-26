@@ -3,6 +3,7 @@ id: 699
 title: '编程珠玑番外篇3 &#8212; 关于程序优化的八卦'
 date: 2008-11-13T22:12:51+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=699
 permalink: /2008/11/13/anecdotes-about-program-optimization/

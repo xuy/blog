@@ -3,6 +3,7 @@ id: 475
 title: Website Content Rating System in China
 date: 2007-10-29T15:56:34+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/29/website-content-rating-system-in-china/
 permalink: /2007/10/29/website-content-rating-system-in-china/

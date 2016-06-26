@@ -3,6 +3,7 @@ id: 785
 title: 如何和一个美国MM 约会
 date: 2009-01-21T20:37:11+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=785
 permalink: /2009/01/21/book-review-on-how-to-talk-to-girl/

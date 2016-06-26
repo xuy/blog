@@ -3,6 +3,7 @@ id: 161
 title: '推荐阅读: 砍柴不误磨刀功'
 date: 2007-04-12T18:21:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/12/plan_or_practise/
 permalink: /2007/04/12/plan_or_practise/

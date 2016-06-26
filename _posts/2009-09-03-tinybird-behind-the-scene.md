@@ -3,6 +3,7 @@ id: 1018
 title: 《小小鸟》书外的故事
 date: 2009-09-03T23:05:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1018
 permalink: /2009/09/03/tinybird-behind-the-scene/

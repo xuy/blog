@@ -3,6 +3,7 @@ id: 501
 title: Bit per Joule 比特每焦耳
 date: 2007-12-15T23:36:52+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/12/15/bit-per-joule-part-1/
 permalink: /2007/12/15/bit-per-joule-part-1/

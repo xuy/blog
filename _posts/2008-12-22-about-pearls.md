@@ -3,6 +3,7 @@ id: 766
 title: 编程珠玑番外篇的番外篇
 date: 2008-12-22T09:57:13+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=766
 permalink: /2008/12/22/about-pearls/

@@ -3,6 +3,7 @@ id: 127
 title: 'It&#8217;s snowing white cats and dogs'
 date: 2007-02-13T13:03:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=127
 permalink: /2007/02/13/its-snowing-white-cats-and-dogs/

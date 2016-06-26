@@ -3,6 +3,7 @@ id: 568
 title: 因爱而信
 date: 2008-06-01T10:14:34+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/06/01/love-is-my-faith-and-hope/
 permalink: /2008/06/01/love-is-my-faith-and-hope/

@@ -3,6 +3,7 @@ id: 199
 title: 谷歌的人月神话
 date: 2007-05-18T19:22:56+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/18/guge-man-month/
 permalink: /2007/05/18/guge-man-month/

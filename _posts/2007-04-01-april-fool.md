@@ -3,6 +3,7 @@ id: 154
 title: 愚人节玩笑
 date: 2007-04-01T19:25:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=154
 permalink: /2007/04/01/april-fool/

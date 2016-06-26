@@ -3,6 +3,7 @@ id: 583
 title: 什么样的留言是不受欢迎的
 date: 2008-07-06T08:18:17+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/07/06/nettique-on-blog-comments/
 permalink: /2008/07/06/nettique-on-blog-comments/

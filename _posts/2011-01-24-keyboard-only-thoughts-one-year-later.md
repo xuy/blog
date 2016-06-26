@@ -3,6 +3,7 @@ id: 1179
 title: '完全用命令行工作 &#8212; 一年后的思考'
 date: 2011-01-24T17:03:29+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1179
 permalink: /2011/01/24/keyboard-only-thoughts-one-year-later/

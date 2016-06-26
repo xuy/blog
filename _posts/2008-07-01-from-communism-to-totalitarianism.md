@@ -3,6 +3,7 @@ id: 581
 title: 共产主义是怎样走向1984的，以及历史教训
 date: 2008-07-01T21:29:11+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/07/01/from-communism-to-totalitarianism/
 permalink: /2008/07/01/from-communism-to-totalitarianism/

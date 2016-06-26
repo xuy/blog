@@ -3,6 +3,7 @@ id: 253
 title: 网络沟通的一些礼仪
 date: 2007-08-11T15:29:54+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/11/netettiquet/
 permalink: /2007/08/11/netettiquet/

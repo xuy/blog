@@ -3,6 +3,7 @@ id: 520
 title: 别离
 date: 2008-02-17T20:41:37+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/02/17/%e5%88%ab%e7%a6%bb/
 permalink: /2008/02/17/in-this-farewell/

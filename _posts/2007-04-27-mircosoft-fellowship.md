@@ -3,6 +3,7 @@ id: 175
 title: 老板拿新基金了
 date: 2007-04-27T13:43:34+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/04/27/mircosoft-fellowship/
 permalink: /2007/04/27/mircosoft-fellowship/

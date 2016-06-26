@@ -3,6 +3,7 @@ id: 492
 title: Another two books this week
 date: 2007-11-18T22:18:43+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/18/another-two-books-this-week/
 permalink: /2007/11/18/another-two-books-this-week/

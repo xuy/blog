@@ -3,6 +3,7 @@ id: 467
 title: 'Niniane&#8217;s official response here!'
 date: 2007-10-18T10:46:29+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/18/ninianes-official-response-here/
 permalink: /2007/10/18/ninianes-official-response-here/

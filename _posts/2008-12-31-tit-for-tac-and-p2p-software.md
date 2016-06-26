@@ -3,6 +3,7 @@ id: 770
 title: 编程珠玑番外篇-A.P2P客户端的策略和奇妙的对策论-1
 date: 2008-12-31T19:45:35+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=770
 permalink: /2008/12/31/tit-for-tac-and-p2p-software/

@@ -3,6 +3,7 @@ id: 6
 title: 做了两件有意义的事情
 date: 2006-11-19T13:08:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=6
 permalink: /2006/11/19/two-things/

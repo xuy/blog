@@ -3,6 +3,7 @@ id: 889
 title: 向大家请教一个奇怪的问题
 date: 2009-04-25T15:38:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=889
 permalink: /2009/04/25/et-comes-to-earch/

@@ -3,6 +3,7 @@ id: 462
 title: Build VHDL simulation tool chain on Linux
 date: 2007-10-11T23:53:20+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/11/build-vhdl-simulation-tool-chain-on-linux/
 permalink: /2007/10/11/build-vhdl-simulation-tool-chain-on-linux/

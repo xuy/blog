@@ -3,6 +3,7 @@ id: 807
 title: 科学家该找什么样的人生伴侣呐
 date: 2009-02-04T21:59:43+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=807
 permalink: /2009/02/04/how-to-find-a-wife-for-a-young-investigator/

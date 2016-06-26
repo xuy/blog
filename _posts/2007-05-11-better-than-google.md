@@ -3,6 +3,7 @@ id: 188
 title: 谁比Google 懂中文?
 date: 2007-05-11T12:39:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/11/better-than-google/
 permalink: /2007/05/11/better-than-google/

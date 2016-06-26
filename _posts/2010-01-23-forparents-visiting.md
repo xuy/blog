@@ -3,6 +3,7 @@ id: 1047
 title: 父母来美国旅行的一些事项
 date: 2010-01-23T13:09:16+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1047
 permalink: /2010/01/23/forparents-visiting/

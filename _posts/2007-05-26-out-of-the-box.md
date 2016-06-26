@@ -3,6 +3,7 @@ id: 207
 title: Out of the box
 date: 2007-05-26T20:05:24+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/26/out-of-the-box/
 permalink: /2007/05/26/out-of-the-box/

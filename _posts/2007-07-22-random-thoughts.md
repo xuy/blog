@@ -3,6 +3,7 @@ id: 243
 title: 几条凌乱的思考
 date: 2007-07-22T00:53:01+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/07/22/random-thoughts/
 permalink: /2007/07/22/random-thoughts/

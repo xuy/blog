@@ -3,6 +3,7 @@ id: 1127
 title: Jolt 大奖和传统杂志的消亡
 date: 2010-08-10T21:10:07+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1127
 permalink: /2010/08/10/jolt-awards/

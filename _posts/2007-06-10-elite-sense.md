@@ -3,6 +3,7 @@ id: 218
 title: 应当有点精英意识
 date: 2007-06-10T21:09:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/10/%e5%ba%94%e5%bd%93%e6%9c%89%e7%82%b9%e7%b2%be%e8%8b%b1%e6%84%8f%e8%af%86/
 permalink: /2007/06/10/elite-sense/

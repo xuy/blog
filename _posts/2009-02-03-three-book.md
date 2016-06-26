@@ -3,6 +3,7 @@ id: 805
 title: 推荐最近在读的三本书
 date: 2009-02-03T23:00:51+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=805
 permalink: /2009/02/03/three-book/

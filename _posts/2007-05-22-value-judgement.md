@@ -3,6 +3,7 @@ id: 204
 title: '提醒自己: 少做价值判断'
 date: 2007-05-22T18:20:46+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/22/value-judgement/
 permalink: /2007/05/22/value-judgement/

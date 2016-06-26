@@ -3,6 +3,7 @@ id: 593
 title: 总有一天 后人和全世界人都会笑话我们
 date: 2008-07-22T20:57:08+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/07/22/made-in-china-jokes/
 permalink: /2008/07/22/made-in-china-jokes/

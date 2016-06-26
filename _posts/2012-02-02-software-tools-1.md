@@ -3,6 +3,7 @@ id: 1243
 title: 编程珠玑番外篇 -M. 软件工具的设计哲学1
 date: 2012-02-02T20:04:44+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1243
 permalink: /2012/02/02/software-tools-1/

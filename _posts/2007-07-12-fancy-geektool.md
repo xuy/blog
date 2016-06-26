@@ -3,6 +3,7 @@ id: 238
 title: Fancy Geektool
 date: 2007-07-12T22:56:44+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/07/12/fancy-geektool/
 permalink: /2007/07/12/fancy-geektool/

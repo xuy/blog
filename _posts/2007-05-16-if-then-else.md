@@ -3,6 +3,7 @@ id: 196
 title: 如果
 date: 2007-05-16T10:38:48+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/16/if-then-else/
 permalink: /2007/05/16/if-then-else/

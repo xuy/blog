@@ -3,6 +3,7 @@ id: 556
 title: 辟谣, 捐款, 祝福 以及其他
 date: 2008-05-13T21:13:14+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/05/13/%e8%be%9f%e8%b0%a3-%e6%8d%90%e6%ac%be-%e7%a5%9d%e7%a6%8f-%e4%bb%a5%e5%8f%8a%e5%85%b6%e4%bb%96/
 permalink: /2008/05/13/donation-for-the-earthquake/

@@ -3,6 +3,7 @@ id: 1191
 title: 技术文章的质量
 date: 2011-06-26T18:29:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1191
 permalink: /2011/06/26/technical-blog-postings/

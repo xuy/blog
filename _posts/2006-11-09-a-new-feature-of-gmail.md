@@ -3,6 +3,7 @@ id: 403
 title: A new feature of Gmail?
 date: 2006-11-09T09:56:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/11/09/a-new-feature-of-gmail/
 permalink: /2006/11/09/a-new-feature-of-gmail/

@@ -3,6 +3,7 @@ id: 812
 title: English blog is ready
 date: 2009-02-06T18:32:50+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=812
 permalink: /2009/02/06/english-blog-is-ready/

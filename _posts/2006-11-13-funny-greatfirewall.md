@@ -3,6 +3,7 @@ id: 4
 title: Funny GreatFireWall
 date: 2006-11-13T19:28:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=4
 permalink: /2006/11/13/funny-greatfirewall/

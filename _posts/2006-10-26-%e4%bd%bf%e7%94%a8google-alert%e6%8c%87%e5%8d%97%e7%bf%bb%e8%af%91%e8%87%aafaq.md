@@ -3,6 +3,7 @@ id: 393
 title: 使用Google Alert指南(翻译自FAQ)
 date: 2006-10-26T15:07:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/10/26/%e4%bd%bf%e7%94%a8google-alert%e6%8c%87%e5%8d%97%e7%bf%bb%e8%af%91%e8%87%aafaq/
 permalink: /2006/10/26/%e4%bd%bf%e7%94%a8google-alert%e6%8c%87%e5%8d%97%e7%bf%bb%e8%af%91%e8%87%aafaq/

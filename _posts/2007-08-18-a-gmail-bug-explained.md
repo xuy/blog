@@ -3,6 +3,7 @@ id: 255
 title: A Gmail bug explained
 date: 2007-08-18T00:26:44+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/18/a-gmail-bug-explained/
 permalink: /2007/08/18/a-gmail-bug-explained/

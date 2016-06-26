@@ -3,6 +3,7 @@ id: 535
 title: 计算机科学必读经典
 date: 2008-04-09T15:33:10+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/04/09/classics-in-cs/
 permalink: /2008/04/09/classics-in-cs/

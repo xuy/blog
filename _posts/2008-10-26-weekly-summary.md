@@ -3,6 +3,7 @@ id: 676
 title: 一周杂记
 date: 2008-10-26T18:53:20+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=676
 permalink: /2008/10/26/weekly-summary/

@@ -3,6 +3,7 @@ id: 305
 title: 'GuestBlog-3(圣诞节特稿). 海纳百川，有容乃大&#8211;ITU 2006青年领袖论坛杂记 By George Ran REN'
 date: 2006-12-24T08:48:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/12/24/guestblog-3-itu-2006-by-george-ran-ren/
 permalink: /2006/12/24/guestblog-3-itu-2006-by-george-ran-ren/

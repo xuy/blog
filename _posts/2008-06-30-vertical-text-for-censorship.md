@@ -3,6 +3,7 @@ id: 579
 title: 竖文运动
 date: 2008-06-30T18:35:34+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/06/30/vertical-text-for-censorship/
 permalink: /2008/06/30/vertical-text-for-censorship/

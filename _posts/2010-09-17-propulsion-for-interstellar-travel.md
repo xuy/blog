@@ -3,6 +3,7 @@ id: 1142
 title: 星际旅行的推进技术
 date: 2010-09-17T22:04:21+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1142
 permalink: /2010/09/17/propulsion-for-interstellar-travel/

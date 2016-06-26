@@ -3,6 +3,7 @@ id: 250
 title: 我眼中的教育产业
 date: 2007-08-06T23:13:49+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/08/06/%e6%88%91%e7%9c%bc%e4%b8%ad%e7%9a%84%e6%95%99%e8%82%b2%e4%ba%a7%e4%b8%9a/
 permalink: /2007/08/06/education-in-china/

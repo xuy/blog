@@ -3,6 +3,7 @@ id: 142
 title: 'GuestBlog-4. 别太把自己当回事&#8211; By Hao Hu'
 date: 2007-03-09T18:22:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=142
 permalink: /2007/03/09/guestblog-4-by-hao-hu/

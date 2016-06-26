@@ -3,6 +3,7 @@ id: 546
 title: 谈搭讪
 date: 2008-04-17T21:58:12+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/04/17/about-hit-on/
 permalink: /2008/04/17/about-hit-on/

@@ -3,6 +3,7 @@ id: 217
 title: 拼写检查器的一点注记
 date: 2007-06-09T21:52:58+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/06/09/notes-on-spell-checker/
 permalink: /2007/06/09/notes-on-spell-checker/

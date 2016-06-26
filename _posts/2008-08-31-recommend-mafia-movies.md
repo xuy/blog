@@ -3,6 +3,7 @@ id: 615
 title: 推荐黑帮电影
 date: 2008-08-31T13:20:08+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=615
 permalink: /2008/08/31/recommend-mafia-movies/

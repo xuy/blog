@@ -3,6 +3,7 @@ id: 614
 title: 臭鼬工厂启示录
 date: 2008-08-26T08:56:37+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=614
 permalink: /2008/08/26/skunkwork/

@@ -3,6 +3,7 @@ id: 617
 title: Mr Right and Mrs Always Right
 date: 2008-09-07T08:37:54+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=617
 permalink: /2008/09/07/mr-right-and-mrs-always-right/

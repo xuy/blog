@@ -3,6 +3,7 @@ id: 666
 title: '完全用命令行工作-4: 苹果图形界面脚本化'
 date: 2008-10-19T14:26:06+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=666
 permalink: /2008/10/19/macos-and-command-line-script/

@@ -3,6 +3,7 @@ id: 117
 title: Dr. Kai-fu Lee talked about Google China
 date: 2007-01-30T19:16:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=117
 permalink: /2007/01/30/dr-kai-fu-lee-talked-about-google-china/

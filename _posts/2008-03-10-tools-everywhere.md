@@ -3,6 +3,7 @@ id: 524
 title: 工具的强是无敌的
 date: 2008-03-10T10:41:14+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/03/10/tools-everywhere/
 permalink: /2008/03/10/tools-everywhere/

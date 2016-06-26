@@ -3,6 +3,7 @@ id: 707
 title: 编程珠玑番外篇-5.比代码大全好的两本书A
 date: 2008-11-23T00:09:05+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=707
 permalink: /2008/11/23/software-tool/

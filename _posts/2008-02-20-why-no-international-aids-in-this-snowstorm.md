@@ -3,6 +3,7 @@ id: 521
 title: 为什么不给中国压岁钱
 date: 2008-02-20T14:47:33+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/02/20/why-no-international-aids-in-this-snowstorm/
 permalink: /2008/02/20/why-no-international-aids-in-this-snowstorm/

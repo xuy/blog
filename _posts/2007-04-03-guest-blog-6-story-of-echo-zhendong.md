@@ -3,6 +3,7 @@ id: 155
 title: 'Guest Blog-6 Story of ECHO&#8211;By Zhendong Zhao'
 date: 2007-04-03T07:00:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=155
 permalink: /2007/04/03/guest-blog-6-story-of-echo-zhendong/

@@ -3,6 +3,7 @@ id: 465
 title: 'Why Asian girl in US doesn&#8217;t want to date me'
 date: 2007-10-15T10:48:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/15/why-asian-girl-in-us-doesnt-want-to-date-me/
 permalink: /2007/10/15/why-asian-girl-in-us-doesnt-want-to-date-me/

@@ -3,6 +3,7 @@ id: 390
 title: Gmail是个好东西
 date: 2006-10-22T12:38:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2006/10/22/gmail%e6%98%af%e4%b8%aa%e5%a5%bd%e4%b8%9c%e8%a5%bf/
 permalink: /2006/10/22/gmail%e6%98%af%e4%b8%aa%e5%a5%bd%e4%b8%9c%e8%a5%bf/

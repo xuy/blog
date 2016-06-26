@@ -3,6 +3,7 @@ id: 1302
 title: 编程珠玑番外篇-O 中间语言和虚拟机漫谈
 date: 2014-05-11T20:29:44+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=1302
 permalink: /2014/05/11/language-and-vm/

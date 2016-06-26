@@ -3,6 +3,7 @@ id: 522
 title: 请懂量子力学的一起帮我参详一篇论文
 date: 2008-02-23T23:19:21+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2008/02/23/lloyds-paper/
 permalink: /2008/02/23/lloyds-paper/

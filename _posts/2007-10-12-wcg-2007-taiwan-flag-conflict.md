@@ -3,6 +3,7 @@ id: 463
 title: 绿色呆丸除了会歪曲事实还会干什么？
 date: 2007-10-12T10:55:11+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/12/wcg-2007-taiwan-flag-conflict/
 permalink: /2007/10/12/wcg-2007-taiwan-flag-conflict/

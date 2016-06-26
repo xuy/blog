@@ -3,6 +3,7 @@ id: 485
 title: 'My plan about the &#8220;Read The F Manual&#8221; Project'
 date: 2007-11-10T00:48:22+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/10/my-plan-about-the-read-the-f-manual-project/
 permalink: /2007/11/10/my-plan-about-the-read-the-f-manual-project/

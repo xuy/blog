@@ -3,6 +3,7 @@ id: 597
 title: 我被这个红老外打败了
 date: 2008-08-02T18:26:19+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=597
 permalink: /2008/08/02/honglaowa/

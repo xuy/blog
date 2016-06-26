@@ -3,6 +3,7 @@ id: 76
 title: 测试一下Picasa的网络相册 顺便秀Office
 date: 2006-12-13T11:46:00+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=76
 permalink: /2006/12/13/picasa-office/

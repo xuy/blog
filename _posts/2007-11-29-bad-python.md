@@ -3,6 +3,7 @@ id: 497
 title: 说 Python 的几句坏话
 date: 2007-11-29T12:27:28+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/29/bad-python/
 permalink: /2007/11/29/bad-python/

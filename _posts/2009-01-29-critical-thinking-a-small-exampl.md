@@ -3,6 +3,7 @@ id: 792
 title: 批判性思维一小例
 date: 2009-01-29T20:36:36+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/?p=792
 permalink: /2009/01/29/critical-thinking-a-small-exampl/

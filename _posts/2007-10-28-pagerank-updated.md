@@ -3,6 +3,7 @@ id: 469
 title: PageRank 终于更新了
 date: 2007-10-28T21:28:25+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/10/28/pagerank-updated/
 permalink: /2007/10/28/pagerank-updated/

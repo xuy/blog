@@ -3,6 +3,7 @@ id: 186
 title: 王小波的几句话乱编
 date: 2007-05-10T00:16:59+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/05/10/wangxiaobo/
 permalink: /2007/05/10/wangxiaobo/

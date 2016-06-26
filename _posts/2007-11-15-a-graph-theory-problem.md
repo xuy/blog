@@ -3,6 +3,7 @@ id: 490
 title: 一道图论题
 date: 2007-11-15T00:23:56+00:00
 author: Eric
+comments: true
 layout: post
 guid: http://blog.youxu.info/2007/11/15/a-graph-theory-problem/
 permalink: /2007/11/15/a-graph-theory-problem/
