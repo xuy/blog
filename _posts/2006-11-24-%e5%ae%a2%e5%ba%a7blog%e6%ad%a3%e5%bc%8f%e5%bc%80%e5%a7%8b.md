@@ -1,0 +1,109 @@
+---
+id: 10
+title: 客座Blog正式开始
+date: 2006-11-24T09:16:00+00:00
+author: Eric
+layout: post
+guid: http://blog.youxu.info/?p=10
+permalink: /2006/11/24/%e5%ae%a2%e5%ba%a7blog%e6%ad%a3%e5%bc%8f%e5%bc%80%e5%a7%8b/
+dsq_thread_id:
+  - 516522734
+categories:
+  - Guest Blog
+  - Linux
+  - tech
+  - Web
+---
+Blog开张一个月以来，得到好多人的支持。<span style="color: #6600cc;">有很多好朋友留下了非常好的评论</span>，有些评论展开的话也是非常好的文章。从今天开始，<span style="color: #990000;">不定期邀请朋友在我的Blog上发表文章</span>，<span style="color: #660000;">或者我主动转载发表在他们Blog的优秀文章。</span>同时我也会加入自己对这位朋友的介绍和对他文章的一些评论，这样大家也可以互相认识。
+
+今天第一篇，[转载](http://forrestbao.blogspot.com/2006/11/how-to-installconfigure-tor-and-privoxy.html)的是我的朋友[Forrest Sheng Bao 的 Blog](http://forrestbao.blogspot.com/) 中专门为中国大陆用户所写怎样使用[Tor](http://tor.eff.org/index.html.zh-cn)穿越[GFW](http://baike.baidu.com/view/6754.htm). 原文针对Linux用户，关于Windows的配置可以参见[这里](http://tor.eff.org/docs/tor-doc-win32.html)。
+
+> **作者介绍**：Forrest Sheng Bao 是Texas Tech University 研究生, 也是一个Linux的狂热爱好者。我们通过[百合](http://beta.blogger.com/www.lilybbs.net)认识并在其后熟悉。他的研究领域包括生物信息学，计算机科学，信号处理和图像科学。你可以通过forrest.bao AT gmail.com 联系他，也可以访问他的[个人主页](http://forrest.bao.googlepages.com/).
+
+<a title="7261176819287420724" name="7261176819287420724"></a>
+
+### ———This Original Post ————————————————————————— {.post-title}
+
+### [How to install/configure Tor and Privoxy on Linux](http://forrestbao.blogspot.com/2006/11/how-to-installconfigure-tor-and-privoxy.html) {.post-title}
+
+This document is licensed under GNU Free Document License. Permission is granted to obtain, modify, translate and re-distribute it under any circumstance and in any form. The purpose of this document is to help people who are suffering under injustice network censorship policies of some extreme f**king governments.
+
+Question 1: What is Tor?
+  
+Tor is a connection-based low-latency anonymous communication system which
+  
+addresses many flaws in the original onion routing design. In brief, Onion Routing is a connection-oriented anonymizing communication service.
+
+The latest information can be found at http://tor.eff.org/, or on the mailing lists, archived at http://archives.seul.org/or/talk/ or http://archives.seul.org/or/announce/.
+
+Question 2: What is Privoxy?
+  
+Privoxy is a web proxy with advanced filtering capabilities for protecting privacy, filtering web page content, managing cookies, controlling access, and removing ads, banners, pop-ups and other obnoxious Internet junk. Privoxy has a very flexible configuration and can be customized to suit individual needs and tastes.
+
+Question 3: Can Tor and Privoxy help those people in Communism countries?
+  
+Yes.
+
+Question 4: How to install Tor and Privoxy?
+  
+Linux Users:
+  
+* I can here only provide the solution to install them on Debian or Debian-based Linux distributions, such as Ubuntu, Xandros, MEPIS. I will use Ubuntu as the example.
+  
+* For Fedora/Red Hat Linux users, maybe you can find the RPM package on their supporting websites or using YUM to install.
+  
+* For SuSE Linux users, please use YaST2 to install them.
+  
+* Other Linux distribution users, please search on the Internet or consulting BBS, Mail list, etc.
+
+FreeBSD Users:
+  
+Tor and Privoxy can work on FreeBSD, you can use port to install or you can download the source to compile by yourself.
+
+Mac OS X Users:
+  
+I know Tor and Privoxy can work on Mac OS X. But I haven&#8217;t tried.
+
+Windows Users:
+  
+Please ask your locate help.
+
+To install Tor and Privoxy on Ubuntu Linux, just run following command
+  
+sudo apt-get install tor privoxy
+
+Question 5: What to do after the installation?
+  
+1. Install the Firefox TorButton plug-in.
+  
+Go to this URL:
+  
+<https://addons.mozilla.org/firefox/2275/>
+  
+Click the &#8220;Install Now&#8221; button to install it. A windows for installation will popup. After the installation, restart Firefox. You will see a button at the right bottom of Firefox.
+
+[<img style="cursor: pointer; width: 728px; height: 540px;" src="http://static.flickr.com/105/297088325_519ac89fc1_o_d.png" border="0" alt="" />](http://static.flickr.com/105/297088325_519ac89fc1_o_d.png)
+
+2. Configure the Privoxy.
+  
+Open Privoxy&#8217;s &#8220;config&#8221; file (look in /etc/privoxy/ or /usr/local/etc/) and add the line
+  
+ <span style="font-weight: bold; font-style: italic; font-family: arial;">forward-socks4a / localhost:9050 .</span>
+  
+to the top of the config file. Don&#8217;t forget to add the dot at the end.
+
+Privoxy keeps a log file of everything passed through it. In order to stop this you will need to comment out three lines by inserting a # before the line. The three lines are:
+  
+ <span style="font-weight: bold; font-style: italic; font-family: arial;">logfile logfile</span>
+  
+and the line
+  
+ <span style="font-weight: bold; font-style: italic">jarfile jarfile</span>
+  
+and (on some systems) the line
+  
+ <span style="font-weight: bold; font-style: italic; font-family: arial;">debug 1 # show each GET/POST/CONNECT request</span>
+
+You&#8217;ll need to restart Privoxy(if you are a newbie of Linux, just reboot the computer) for the changes to take effect.
+
+—————Post—Ends————————————————————————————————

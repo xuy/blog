@@ -1,0 +1,47 @@
+---
+id: 30
+title: 什么叫做懂中文
+date: 2006-12-17T21:51:00+00:00
+author: Eric
+layout: post
+guid: http://blog.youxu.info/?p=30
+permalink: /2006/12/17/understand-chinese/
+dsq_thread_id:
+  - 335997282
+categories:
+  - CompSci
+  - tech
+---
+<blockquote style="border-left: 1px solid #cccccc; margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex" class="gmail_quote">
+  <p>
+    <font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"> 读前提示：作者并不是搜索引擎和语言处理方面的专家，对自然语言和搜索引擎的理解仅限于读过的十几本书和五六篇论文，对于该领域的理解水平相当于普通计算机专业研究生。作者的观点可能带有主观看法。另外，本文不试图评价哪个更懂中文，只想告诉大家什么才是计算机领域所说的懂中文，免得简单的因为名字起得不好或者打错了字就说不懂中文，或者第一页是广告就说不懂中文，那样就有点好笑了。</font>
+  </p>
+</blockquote>
+
+  <font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"></font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">先说几个标题, 都是关于懂中文的。 <a href="http://blog.devep.net/virushuo/2006/12/11/post_45.html" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">谷歌不太懂中文</a> </font> <a href="http://kangkang.bokee.com/5958687.html" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank"><font size="2">百度真的比Google更懂中文么?</font></a>,  <a href="http://blog.sina.com.cn/u/55752507010006v2" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">Google真的不懂中文?</a> <a href="http://www.donews.com/Content/200611/83f1081acfc740aaa12bc7c5c83dd986.shtm" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">雅虎比百度更懂中文</a> 还有 <a href="http://my.donews.com/qiji/2006/09/24/baidu-only-chinese/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">百度，你只懂中文</a> <font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">；作为普通的用户，不知道看到这些眼花缭乱的宣传会不会头晕。而且这些Blog文章，往往就是标题党，拿着一两个小点就开始发挥，而实际上有些并不是懂不懂中文的问题。因此，我在此写一个简要的介绍，告诉大家什么叫懂中文，免得以后看到类似的标题也高不清楚谁对谁错。</font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">首先，人是评价技术的主观标准，如果一个中文搜索引擎给你的感觉是结果不好，无论是广告多了，排名靠后，</font>  <font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">结果不相关，</font><font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">还是分词不对，它就是不太懂中文，这个标准是肯定的。但是，这个标准并不是全面的客观的。</font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">我想解释一下，对于搜索引擎，什么叫懂中文，我们用什么样的客观标准去评价&#8221;懂中文&#8221;.<br /> <br style="color: #ff6600" /></font><font size="4"><span style="color: #ff6600">要强调的是：搜索引擎定义的懂中文和自然语言处理定义的懂中文是不一样的</span><br /> </font>
+  
+我们知道，中国人都懂中文（当然少数民族不说汉语的咱不讨论）。懂也就是说能理解中文的意思，不管是不是文盲。我们说某老外懂中文，是说他能理解中文的意思。同理，计算机懂不懂中文，关键是计算机能不能理解中文的意思。计算机自然语言处理的本质，是对句子或文章进行词法分析（哪几个汉字是一个词），句法分析（好比说 主谓宾），语义分析（句子是什么意思），最后把汉语变成一种中间语言，或者一种叫语义网络的东西。 <span style="color: #993300">人可以验证计算机生成的语义和我们想表达的语义是否一样，从而验证计算机是否懂中文。</span>
+  
+<br style="color: #cc6600" /><span style="color: #cc6600">而搜索引擎定义的懂中文，不是理解中文的意思，而是决定能否由中文关键字得到想要的结果。</span>  <span style="color: #000000">搜索引擎通过抓取网页或其他资源，编制索引，而用户输入关键字，则可以取出匹配的结果。因此，搜索引擎的懂中文可以理解成这几个方面：</span>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">1. 能否正确抓取中文网页<br /> 这一点的是评价搜索引擎中文质量的一个标准，但是并不是评价懂不懂中文的好标准。<br /> 首先，如果是蜘蛛抓取的面不够广，我们可以说这个引擎最终质量不一定会高。但是不代表这个引擎不懂中文。比如一个人收藏了很多书签，每次从书签中返回一个结果给我。他就是一个智能但是搜索面很窄的引擎。当然，如果一个蜘蛛蠢到不能应对多种汉字编码，那么，的确可以说不懂中文。 </font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">2. 能否正确编制索引<br /> 这一点牵涉到两个方面，一个是分词，一个是索引，其中<span style="color: #990000">分词是评价一个搜索引擎懂不懂中文的很好标准。<br /> </span><span style="color: #000000">什么叫分词呢，我们知道，英语单词与单词之间是有空格的，因此字母是字母，词是词。但是中文很不一样，有个笑话说：老师让小明用</span><span style="color: #660000"> 如果</span>造句，小明说，汽水不<span style="color: #cc0000">如果</span>珍味道好。如果搜索引擎把这个句子断成这样，其结果的质量可想而知。这个例子当然和极端，但实际上搜索引擎不会分词的现象普遍存在，比如 <a href="http://search.live.com/results.aspx?q=%25E5%2585%25B1%25E5%2592%258C%25E5%259B%25BD%25E5%25AE%25B6&mkt=zh-CN&form=QBRE&go.x=0&go.y=0&go=Search" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank"> live 搜索共和国家</a>，第一条结果就把&#8221;</font><font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"><span style="color: #cc6600"></span><span style="color: #000000"> </span><span style="color: #990000"></span><span style="color: #000000">和</span></font><font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"><span style="color: #cc6600"> </span><span style="color: #000000"></span><span style="color: #990000"></span><span style="color: #000000">&#8220;分成一个词了。<a href="http://search.cn.yahoo.com/search?lp=%25E6%2587%2582%25E4%25B8%25AD%25E6%2596%2587&p=%25E5%2585%25B1%25E5%2592%258C%25E5%259B%25BD%25E5%25AE%25B6&ei=UTF-8&fr=yfp&meta=" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank"> yahoo</a>第一条也不对。再看看<a href="http://www.google.com/search?q=%25E5%2585%25B1%25E5%2592%258C%25E5%259B%25BD%25E5%25AE%25B6" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">Google 的第三条也不对</a>。相比之下， <a href="http://www.baidu.com/s?wd=%25B9%25B2%25BA%25CD%25B9%25FA%25BC%25D2&cl=3" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank"> baidu</a> 分词完全正确，分成两个词。当然具体的结果相关性在这里我们先不讨论。分词，有时候也可以理解为</span></font><font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"><span style="color: #cc6600"> </span><span style="color: #000000">能否正确辨认用户输入关键字，在搜索网页时候结果可能受排名影响而不容易看出优劣，但在小结果集合中效果明显。比如 地图分词， 邮件搜索分词，站内搜索分词，这些结果如人饮水，冷暖自知，大家可以客观的评价。至于百度的广告：</span></font>  <font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">我知道你不知道我知道你不知道我知道你不知道我知道你不知道，只是表示他有中文分词／句能力，并不一定表示百度真的能把这句话理解。（我认为这句话存在不可判决路径，连人也可以分出几种意思，计算机又怎么可能分对？）</font>
+  
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"><span style="color: #cc6600"> </span><span style="color: #000000"></span><span style="color: #990000"></span><span style="color: #000000"><br style="color: #000000" /></span></font>  <font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2"><span style="color: #cc6600"></span><span style="color: #000000"></span><span style="color: #990000"></span><span style="color: #000000">第二是索引，现在的搜索引擎，在链接下面往往会有一些小的片断帮助你筛选信息。实际上，这些小片断的选择很重要。 Microsoft Research 就曾经做过一个研究， </span><a href="http://portal.acm.org/citation.cfm?id=1009030" onclick="return top.js.OpenExtLink(window,event,this)" style="color: #000000" target="_blank">根据这些小片断做聚类</a><span style="color: #000000">。 小片断的好坏实际上表现了搜索引擎对这个关键字的理解。我们 可以用八荣八耻做测试，看看哪个能在小片断中体现相关信息。但是讽刺的是，恰恰是 <a href="http://search.live.com/results.aspx?q=%25E5%2585%25AB%25E8%258D%25A3%25E5%2585%25AB%25E8%2580%25BB&mkt=zh-CN&form=QBRE&go.x=0&go.y=0&go=Search" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank"> live 的小片断的质量最差</a>，有些片断和八荣八耻无法关联。Google, baidu 和 yahoo 小片断质量类似，其他关键字我未尝试，此处仅为一例，不作为论据。</span></font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">3 . 能否正确输出匹配结果<br /> Baidu 饱受诟病的一个原因就是竞价排名影响结果。其实这也是一种商业模式。但是这个模式不可避免的影响了结果。相当多的人在此批评百度不懂中文。客观的说，懂不懂中文和这个关系不大。不过减去广告后的比较的确很有价值，也的确能说明问题。有些文章写的很客观，有些纯粹拿着一个点发挥。 </font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">4. 扩展一：能否自动对大规模相似文本聚类<br /> 这个主要用在新闻上， baidu 的新闻质量和 Google 的新闻质量都很高，这方面尚未有任何比较，如果下面再有文章关于这个，相信大家有自己的眼光了。附带说一个，<a href="http://www.sogou.com/labs/wenpin/">sogou的作者风格评</a><a href="http://www.sogou.com/labs/wenpin/">价 </a>实在是很好的点子很糟糕的技术，可能和样本太少也有关系，聚类结果差强人意。顺着这个，就牵涉到上下文相关广告和垃圾邮件处理，当然现在 英文领先的还是 Google, 中文也没有相关的比较出来。这是懂中文的一个非常重要的标准。 </font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">扩展二：能否进行高质量机器翻译<br /> 这一点是自然语言处理的本质，不敢做这个或者做不好这个都是不懂中文，或者在理解中文上有问题。这方面也是 Goolge 世界领先，（没办法，这个拼的就是语料库和计算能力，这个是我认为的&#8221;懂中文&#8221;的一个核心）</font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">扩展三：拼音识别和相近词识别<br /> 有人说这个拼音识别 和近义词有什么难的？不就是输入法＋词典么。对的，说的很对，就是输入法加词典（当然也有复杂的技术我就不讲了）。可是如果这都做不好，谈什么懂中文呢 。 </font>
+
+<font style="color: #000000" color="#ffffff" face="georgia,times new roman,times,serif" size="2">结语：<span style="color: #336666">判断&#8221;懂中文&#8221; 有客观标准，大约是 机器翻译 50%, 分词20％， 聚类＋搜索质量30％。</span><br /> 其他主观标准，我尊重你的判断，但是请不要用<span style="color: #cc0000">不懂中文</span>这样的标题吓人，大家都是中国人，都懂你不懂什么叫不懂中文，都知道你不知道我知道你不知道我知道。附带说一句，从语义分析角度来说，新华字典懂汉字，不懂中文。<br /> </font>
