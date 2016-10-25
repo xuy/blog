@@ -1,7 +1,7 @@
 # Jekyll configuration
 url: http://blog.youxu.info
 name: 4G Spaces
-description: 我是徐宥 <br/><br/> Fitbit 工程经理和技术领导人, 曾在 Google 广告部门和无人驾驶汽车部门供职。2011 年获华盛顿大学人工智能博士学位。<br/><br/> 这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。<br/><br/> 一切文章皆为原创, 18岁以上的网友转载本博客文章请保留出处.  这里欢迎留言, 但没有智力活动迹象的留言将会被删除.
+description: 我是徐宥 <br/><br/> <a href="https://www.ai.codes">创业中。</a>之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。<br/><br/> 这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。<br/><br/> 一切文章皆为原创, 18岁以上的网友转载本博客文章请保留出处.  这里欢迎留言, 但没有智力活动迹象的留言将会被删除.
 
 twitter_username: mathena
 github_username: xuy
