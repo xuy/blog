@@ -1,6 +1,7 @@
 body {
     padding-top: 60px;
     padding-bottom: 60px;
+    font-size: 13pt;
 }
 
 .copyright {
@@ -48,4 +49,9 @@ body {
 
 .author a {
     color: #ee4444;
+}
+
+.h4 {
+    margin-top: 20px;
+    line-height: 2;
 }
