@@ -2,4 +2,5 @@ local:
 	jekyll s --incremental
 
 publish:
-	s3_website push --config-dir ~/Dropbox
+	bundle exec jekyll b
+	firebase deploy
